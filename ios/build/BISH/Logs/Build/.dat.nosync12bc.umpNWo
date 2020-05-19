@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>5D7E88F5-4060-41B0-B9F4-162C3BC0C9A8</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5D7E88F5-4060-41B0-B9F4-162C3BC0C9A8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BISH project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BISH</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace BISH with scheme BISH and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>604588632.74295294</real>
+			<key>timeStoppedRecording</key>
+			<real>604588635.45336401</real>
+			<key>title</key>
+			<string>Building workspace BISH with scheme BISH and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>5D7E88F5-4060-41B0-B9F4-162C3BC0C9A8</string>
+		</dict>
+		<key>88B9E80B-FA23-40D2-B38A-E9B558F222A2</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>88B9E80B-FA23-40D2-B38A-E9B558F222A2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BISH project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BISH</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace BISH with scheme BISH and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>606047282.68135703</real>
+			<key>timeStoppedRecording</key>
+			<real>606047294.35812497</real>
+			<key>title</key>
+			<string>Building workspace BISH with scheme BISH and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>88B9E80B-FA23-40D2-B38A-E9B558F222A2</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/digimonk/Desktop/BISH/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/SecureStorage/FIRSecureStorage.m \
+  /Users/digimonk/Desktop/BISH/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/SecureStorage/FIRSecureStorage.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromises.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+All.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromiseError.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Always.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Any.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Async.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Await.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Catch.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Delay.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Do.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Race.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Recover.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Reduce.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Retry.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Then.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Timeout.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Validate.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Wrap.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Errors/FIRInstallationsErrorUtil.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FIRInstallationsErrors.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/SecureStorage/FIRInstallationsKeychainUtils.h

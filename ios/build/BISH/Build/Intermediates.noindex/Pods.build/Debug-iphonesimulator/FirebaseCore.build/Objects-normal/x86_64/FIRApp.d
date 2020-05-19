@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/digimonk/Desktop/BISH/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRApp.m \
+  /Users/digimonk/Desktop/BISH/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FIRApp.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRBundleUtil.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRVersion.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRAnalyticsConfiguration.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRAppInternal.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRErrors.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRErrorCode.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRComponentContainerInternal.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRComponent.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRComponentContainer.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRComponentType.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRLibrary.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRConfigurationInternal.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FIRConfiguration.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FIRLoggerLevel.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRCoreDiagnosticsConnector.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRLogger.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIROptionsInternal.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FIROptions.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/GoogleUtilities/GULAppEnvironmentUtil.h

@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/digimonk/Desktop/BISH/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingProxyRootView.mm \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
+  /Users/digimonk/Desktop/BISH/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingProxyRootView.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/React-Core/React/RCTRootView.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/React-Core/React/RCTBridge.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/React-Core/React/RCTBridgeDelegate.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/React-Core/React/RCTDefines.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/React-Core/React/RCTPackagerConnection.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/React-Core/React/RCTBridgeModule.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/React-Core/React/RCTFrameUpdate.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/React-Core/React/RCTInvalidating.h \
+  /Users/digimonk/Desktop/BISH/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingView.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/React-Core/React/RCTSurfaceDelegate.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/React-Core/React/RCTSurfaceStage.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/React-Core/React/RCTSurfaceSizeMeasureMode.h \
+  /Users/digimonk/Desktop/BISH/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/digimonk/Desktop/BISH/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/digimonk/Desktop/BISH/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/React-Core/React/RCTAssert.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/React-Core/React/RCTUtils.h \
+  /Users/digimonk/Desktop/BISH/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/digimonk/Desktop/BISH/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/digimonk/Desktop/BISH/node_modules/react-native/React/Base/RCTRootContentView.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/React-Core/React/RCTView.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/React-Core/React/RCTBorderStyle.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/React-Core/React/RCTComponent.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/React-Core/React/RCTPointerEvents.h \
+  /Users/digimonk/Desktop/BISH/node_modules/react-native/React/Base/RCTRootViewDelegate.h \
+  /Users/digimonk/Desktop/BISH/node_modules/react-native/React/Base/Surface/RCTSurface.h \
+  /Users/digimonk/Desktop/BISH/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h

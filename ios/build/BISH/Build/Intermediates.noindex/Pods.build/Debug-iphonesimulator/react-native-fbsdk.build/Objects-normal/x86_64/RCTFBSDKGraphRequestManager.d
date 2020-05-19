@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/digimonk/Desktop/BISH/node_modules/react-native-fbsdk/ios/RCTFBSDK/core/RCTFBSDKGraphRequestManager.m \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Target\ Support\ Files/react-native-fbsdk/react-native-fbsdk-prefix.pch \
+  /Users/digimonk/Desktop/BISH/node_modules/react-native-fbsdk/ios/RCTFBSDK/core/RCTFBSDKGraphRequestManager.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKCoreKit.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAccessToken.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKCopying.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphRequestConnection.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppEvents.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKApplicationDelegate.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKButton.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKConstants.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphRequest.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphRequestDataAttachment.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKSettings.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKTestUsersManager.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKUtility.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLink.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkTarget.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkNavigation.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkResolving.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkResolver.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkReturnToRefererController.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkReturnToRefererView.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkUtility.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphErrorRecoveryProcessor.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKMeasurementEvent.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKMutableCopying.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKProfile.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKProfilePictureView.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKURL.h \
+  /Users/digimonk/Desktop/BISH/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKWebViewAppLinkResolver.h \
+  /Users/digimonk/Desktop/BISH/node_modules/react-native-fbsdk/ios/RCTFBSDK/core/RCTFBSDKGraphRequestConnectionContainer.h

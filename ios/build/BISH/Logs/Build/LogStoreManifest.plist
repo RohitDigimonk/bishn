@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>C3114B3F-5F85-45E0-B504-7C28642729F7</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C3114B3F-5F85-45E0-B504-7C28642729F7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BISH project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BISH</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace BISH with scheme BISH and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>608293708.93222904</real>
+			<key>timeStoppedRecording</key>
+			<real>608293712.90680504</real>
+			<key>title</key>
+			<string>Building workspace BISH with scheme BISH and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>C3114B3F-5F85-45E0-B504-7C28642729F7</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

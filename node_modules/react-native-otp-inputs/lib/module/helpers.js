@@ -1,0 +1,2 @@
+Object.defineProperty(exports,"__esModule",{value:true});exports.fillOtpCode=void 0;var fillOtpCode=function fillOtpCode(numberOfInputs,value){var otpCode={};for(var i=0;i<numberOfInputs;i++){otpCode["".concat(i)]=(value===null||value===void 0?void 0:value[i])||'';}return otpCode;};exports.fillOtpCode=fillOtpCode;
+//# sourceMappingURL=helpers.js.map
